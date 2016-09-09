@@ -147,3 +147,6 @@ License
 This project is licensed under the MIT License.
 
 License can be found [here](LICENSE).
+
+[Chat Widget]: https://img.shields.io/badge/community-chat-00BCD4.svg?style=flat-square
+[Chat]: https://kataras.rocket.chat/channel/go-options
