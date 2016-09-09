@@ -22,7 +22,7 @@
 
 <br/><br/>
 
-Clean APIs for your Go Applications. Inspired by [functional options pattern](https://github.com/tmrts/go-patterns/blob/master/idiom/functional-options.md).
+Clean APIs for your Go Applications. Inspired by <a href="https://github.com/tmrts/go-patterns/blob/master/idiom/functional-options.md">functional options pattern</a>.
 
 </p>
 
